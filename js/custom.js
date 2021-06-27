@@ -2,7 +2,7 @@
  /* jQuery Pre loader
   -----------------------------------------------*/
 $(window).load(function(){
-    $('.preloader').fadeOut(1000); // set duration in brackets    
+    $('.preloader').fadeOut(500); // set duration in brackets    
 });
 
 
@@ -33,9 +33,9 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'images/slide-img1.jpg' },
-            { src: 'images/slide-img2.jpg' },
             { src: 'images/slide-img3.jpg' },
+            { src: 'images/slide-img2.jpg' },
+            { src: 'images/slide-img1.jpg' },
             { src: 'images/slide-img4.jpg' },
             { src: 'images/slide-img5.jpg' },
             { src: 'images/slide-img6.jpg' },
