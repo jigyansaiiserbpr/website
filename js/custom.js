@@ -33,13 +33,11 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'images/slide-img3.jpg' },
             { src: 'images/slide-img2.jpg' },
-            { src: 'images/slide-img1.jpg' },
             { src: 'images/slide-img4.jpg' },
+            { src: 'images/slide-img1.jpg' },
             { src: 'images/slide-img5.jpg' },
             { src: 'images/slide-img6.jpg' },
-            { src: 'images/slide-img7.jpg' },
             { src: 'images/slide-img8.jpg' }
             
         ],
