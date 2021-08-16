@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+*,
+:after,
+:before {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #10608e;
+    min-height: 100vh;
+    text-align: center;
+    font-family: Futura, sans-serif;
+}
+
+h1 {
+    color: #fff;
+}
