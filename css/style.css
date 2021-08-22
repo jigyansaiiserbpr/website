@@ -662,6 +662,15 @@ footer {
     padding-top: 80px;
     padding-bottom: 80px;
   }
+    
+  #about .about-img img {
+    border: 8px solid #ffffff;
+    position: absolute;
+    left: -120px;
+    bottom: -325px;
+    padding: 12px;
+    display: none;
+  }
 
 }
 
